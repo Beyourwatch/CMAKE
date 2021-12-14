@@ -32,3 +32,26 @@ PUBLIC 会传递到 上级文件 CMAKELISTS  PRIVATE 不会，仅在下级的CMA
 
 ![image](https://user-images.githubusercontent.com/63569149/146042136-7e98715a-a927-49c1-be79-826a906425ad.png)
 
+
+
+# 导入第三方库
+#1. 头文件
+![image](https://user-images.githubusercontent.com/63569149/146043875-48141a68-70e8-4a34-ba35-e3d6c33cf108.png)
+
+![image](https://user-images.githubusercontent.com/63569149/146044042-403c78b1-07ce-4065-87c2-1083f3b652e9.png)
+
+#2作为子模块
+![image](https://user-images.githubusercontent.com/63569149/146044321-1478a76c-ee4d-42f1-927a-7f0d2b3d472f.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
