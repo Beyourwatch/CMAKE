@@ -1,0 +1,4 @@
+/home/bb6/Public/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/bb6/Public/cmake/build/CMakeFiles/edit_cache.dir
+/home/bb6/Public/cmake/build/CMakeFiles/hello.dir
+/home/bb6/Public/cmake/build/CMakeFiles/hellolib.dir
