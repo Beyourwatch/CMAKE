@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/hello.dir/main.cpp.o  -o hello  -Wl,-rpath,/home/bb6/GitHub/CMAKE/subdirectory/build/lib lib/liblibhello.so 
