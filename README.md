@@ -28,5 +28,7 @@ target_link_libraries(hello PUBLIC hellolib)
 # 附带子目录后，add_subdirectory 会找不到头文件
 需要增加 target_include_directories(hello PUBLIC $PATH) 附加目录
 
+PUBLIC 会传递到 上级文件 CMAKELISTS  PRIVATE 不会，仅在下级的CMAKELISTS 使用
+
 ![image](https://user-images.githubusercontent.com/63569149/146042136-7e98715a-a927-49c1-be79-826a906425ad.png)
 
