@@ -28,5 +28,5 @@ target_link_libraries(hello PUBLIC hellolib)
 # 附带子目录后，add_subdirectory 会找不到头文件
 需要增加 target_include_directories(hello PUBLIC $PATH) 附加目录
 
+![image](https://user-images.githubusercontent.com/63569149/146042136-7e98715a-a927-49c1-be79-826a906425ad.png)
 
-![image](https://user-images.githubusercontent.com/63569149/146040969-3172b4ea-a8f7-4fd7-b15f-086e7d4d412b.png)
