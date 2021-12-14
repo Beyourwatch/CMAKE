@@ -9,7 +9,7 @@ project (hellocmake LANGUAGES CXX)
 #把文件作为库 SHARED 动态库 需要so文件一起，运行时候调用   STATIC 静态库 编译到可执行文件里，文件大
 add_library(hellolib SHARED hello.cpp)
 
-# 可执行文件 hello， 只需要 main.cpp
+#可执行文件 hello， 只需要 main.cpp
 add_executable(hello main.cpp)
 
 #链接 hellolib
